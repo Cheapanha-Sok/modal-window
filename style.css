@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -52,10 +53,6 @@ h1 {
 p {
     font-size: 1.8rem;
 }
-
-
-/* -------------------------- */
-/* CLASSES TO MAKE MODAL WORK */
 .hidden {
     display: none;
 }
